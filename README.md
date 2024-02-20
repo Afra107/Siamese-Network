@@ -1,0 +1,2 @@
+## Siamese Network
+"Siamese Network" is a project that utilizes the power of Siamese Neural Networks, a class of neural network architectures that contain two or more identical subnetworks. This project is particularly useful in tasks that involve finding similarities or relationships between two comparable things. The identical subnetworks in this project share the same parameters, and thus, are a way of learning feature representations with less data as they learn to be invariant to certain transformations and robust to noise in the input data.
